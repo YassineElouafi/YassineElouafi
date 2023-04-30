@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Julius
+
+Software Engineer
+
+👨‍💻 Currently mostly into webapps and devtools. Build most stuff using react & typescript
+🌍 Based in Morocco 🇲🇦
+
+Tech I'm passionate about
+Typescript React NextJs TailwindCSS Prisma
+
 
 <!--
 **YassineElouafi/YassineElouafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
