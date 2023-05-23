@@ -16,4 +16,4 @@ Tech I'm passionate about
 </div>
 <br/>
 
-![yassin's GitHub stats](https://my-stats-db3ambq3y-yassineelouafi.vercel.app/api?username=YassineElouafi&show_icons=true&theme=tokyonight)
+![yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineElouafi&show_icons=true&theme=tokyonight)
