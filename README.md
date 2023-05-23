@@ -14,5 +14,6 @@ Tech I'm passionate about
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
 </div>
+<br/>
 
 ![yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineElouafi&show_icons=true&theme=tokyonight)
