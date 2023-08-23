@@ -15,5 +15,3 @@ Tech I'm passionate about
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
 </div>
 <br/>
-
-![yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineElouafi&show_icons=true&theme=tokyonight)
