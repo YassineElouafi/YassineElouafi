@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yassine
+### Hi there 👋 
 
 👨‍💻 Currently mostly into webapps and devtools. Build most stuff using react & typescript
 🌍 Based in Morocco 🇲🇦
