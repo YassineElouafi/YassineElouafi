@@ -1,11 +1,7 @@
 ### Hi there 👋 I'm Yassine
 
-Software Engineer
-
 👨‍💻 Currently mostly into webapps and devtools. Build most stuff using react & typescript
 🌍 Based in Morocco 🇲🇦
-
-Tech I'm passionate about
 
 <div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
