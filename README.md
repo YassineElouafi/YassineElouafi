@@ -1,10 +1,5 @@
-### Hi there 👋 
-
-👨‍💻 Currently mostly into webapps and devtools. Build most stuff using react & typescript
-🌍 Based in Morocco 🇲🇦
-
-<div style="display: flex;">
-  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
-  <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
-</div>
-<br/>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=YassineElouafi&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=YassineElouafi&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=YassineElouafi&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
